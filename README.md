@@ -1,2 +1,2 @@
 # PrakPBO
-Source Code UAS Praktikum PBO 
+Source Code UAS Pemograman Berbasis Objek
